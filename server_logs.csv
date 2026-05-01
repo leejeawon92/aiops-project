@@ -1,0 +1,61 @@
+timestamp,level,message
+2026-05-01 21:58:43,ERROR,Permission denied
+2026-05-01 21:58:44,INFO,Cache cleared
+2026-05-01 21:58:44,INFO,User logged in
+2026-05-01 21:58:45,WARNING,Slow response time
+2026-05-01 21:58:45,INFO,User logged in
+2026-05-01 21:58:46,WARNING,Slow response time
+2026-05-01 21:58:46,ERROR,Critical system failure
+2026-05-01 21:58:47,ERROR,Connection timeout
+2026-05-01 21:58:47,INFO,User logged in
+2026-05-01 21:58:48,WARNING,Slow response time
+2026-05-01 21:58:48,INFO,Database query successful
+2026-05-01 21:58:49,WARNING,High memory usage
+2026-05-01 21:58:49,WARNING,Disk space 80% full
+2026-05-01 21:58:50,WARNING,High memory usage
+2026-05-01 21:58:50,INFO,Cache cleared
+2026-05-01 21:58:51,INFO,Cache cleared
+2026-05-01 21:58:51,ERROR,Critical system failure
+2026-05-01 21:58:52,WARNING,Disk space 80% full
+2026-05-01 21:58:52,ERROR,Permission denied
+2026-05-01 21:58:53,WARNING,High memory usage
+2026-05-01 21:58:53,INFO,User logged in
+2026-05-01 21:58:54,INFO,Cache cleared
+2026-05-01 21:58:54,INFO,Database query successful
+2026-05-01 21:58:55,WARNING,High memory usage
+2026-05-01 21:58:55,INFO,User logged in
+2026-05-01 21:58:56,INFO,Database query successful
+2026-05-01 21:58:56,WARNING,Slow response time
+2026-05-01 21:58:57,WARNING,High memory usage
+2026-05-01 21:58:57,WARNING,Slow response time
+2026-05-01 21:58:58,INFO,Database query successful
+2026-05-01 21:58:58,ERROR,Critical system failure
+2026-05-01 21:58:59,INFO,Cache cleared
+2026-05-01 21:58:59,INFO,User logged in
+2026-05-01 21:59:00,INFO,Cache cleared
+2026-05-01 21:59:00,WARNING,Slow response time
+2026-05-01 21:59:01,INFO,User logged in
+2026-05-01 21:59:01,WARNING,Slow response time
+2026-05-01 21:59:02,WARNING,High memory usage
+2026-05-01 21:59:02,INFO,Database query successful
+2026-05-01 21:59:03,ERROR,Connection timeout
+2026-05-01 21:59:03,INFO,Cache cleared
+2026-05-01 21:59:04,WARNING,Disk space 80% full
+2026-05-01 21:59:04,INFO,Cache cleared
+2026-05-01 21:59:05,INFO,Cache cleared
+2026-05-01 21:59:05,INFO,Cache cleared
+2026-05-01 21:59:06,ERROR,Permission denied
+2026-05-01 21:59:06,INFO,User logged in
+2026-05-01 21:59:07,ERROR,Permission denied
+2026-05-01 21:59:07,INFO,User logged in
+2026-05-01 21:59:08,INFO,Database query successful
+2026-05-01 21:59:08,ERROR,Connection timeout
+2026-05-01 21:59:09,WARNING,Slow response time
+2026-05-01 21:59:09,WARNING,Slow response time
+2026-05-01 21:59:10,INFO,Cache cleared
+2026-05-01 21:59:10,INFO,User logged in
+2026-05-01 21:59:11,INFO,Database query successful
+2026-05-01 21:59:11,INFO,Database query successful
+2026-05-01 21:59:12,INFO,Cache cleared
+2026-05-01 21:59:12,INFO,User logged in
+2026-05-01 21:59:13,INFO,User logged in
